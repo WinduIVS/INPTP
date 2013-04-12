@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Priprava02", "Priprava02\Priprava02.csproj", "{325FF32F-B44C-4C38-97A3-7B7A71A304BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325FF32F-B44C-4C38-97A3-7B7A71A304BE}.Debug|x86.ActiveCfg = Debug|x86
+		{325FF32F-B44C-4C38-97A3-7B7A71A304BE}.Debug|x86.Build.0 = Debug|x86
+		{325FF32F-B44C-4C38-97A3-7B7A71A304BE}.Release|x86.ActiveCfg = Release|x86
+		{325FF32F-B44C-4C38-97A3-7B7A71A304BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
